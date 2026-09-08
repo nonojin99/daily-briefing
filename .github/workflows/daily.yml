@@ -1,0 +1,36 @@
+name: Daily Briefing
+
+on:
+  schedule:
+    # UTC 22:00 = KST 익일 07:00
+    - cron: "0 22 * * *"
+  workflow_dispatch:   # 수동 실행 버튼 (테스트용)
+
+permissions:
+  contents: write      # 결과를 커밋하려면 필요
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Collect GitHub data
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+          GH_USER: nonojin99
+        run: python collect_github.py
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "chore: update briefing data"
+          git push
