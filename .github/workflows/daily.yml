@@ -34,3 +34,16 @@ jobs:
           git add data/
           git diff --staged --quiet || git commit -m "chore: update briefing data"
           git push
+
+
+      - name: Collect GitHub data
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+          GH_USER: nonojin99
+        run: python collect_github.py
+
+      - name: Analyze
+        run: python analyze.py
+
+      - name: Commit results
+        run: |
