@@ -1,7 +1,22 @@
 {
-  "collected_at": "2026-09-08T13:55:39.758180+00:00",
+  "collected_at": "2026-09-08T23:55:32.873969+00:00",
   "period_days": 7,
   "active": [
+    {
+      "name": "Daily-Card-News",
+      "days_idle": 0,
+      "last_push": "2026-09-08",
+      "description": "",
+      "url": "https://github.com/nonojin99/Daily-Card-News",
+      "commit_count": 7,
+      "recent_messages": [
+        "Add files via upload",
+        "Add files via upload",
+        "Add files via upload",
+        "Add files via upload",
+        "Add files via upload"
+      ]
+    },
     {
       "name": "daily-briefing",
       "days_idle": 0,
@@ -15,21 +30,6 @@
         "Add analysis script for GitHub repository management",
         "Add daily briefing workflow to GitHub Actions",
         "Add script to collect recent GitHub repository activity"
-      ]
-    },
-    {
-      "name": "Daily-Card-News",
-      "days_idle": 0,
-      "last_push": "2026-09-07",
-      "description": "",
-      "url": "https://github.com/nonojin99/Daily-Card-News",
-      "commit_count": 7,
-      "recent_messages": [
-        "Add files via upload",
-        "Add files via upload",
-        "Add files via upload",
-        "Add files via upload",
-        "Add files via upload"
       ]
     },
     {
@@ -48,23 +48,8 @@
       ]
     },
     {
-      "name": "Dashboard",
-      "days_idle": 1,
-      "last_push": "2026-09-06",
-      "description": "",
-      "url": "https://github.com/nonojin99/Dashboard",
-      "commit_count": 5,
-      "recent_messages": [
-        "Fix closing HTML tag formatting",
-        "Add DAILY_THUMB constant for thumbnail URLs",
-        "Add files via upload",
-        "Dashboard: 도트 공방에 멀티 카테고리 추가",
-        "Dashboard: 도트 공방을 퍼즐 카테고리에도 표시 (DAILY_EXTRA)"
-      ]
-    },
-    {
       "name": "daily-games",
-      "days_idle": 1,
+      "days_idle": 2,
       "last_push": "2026-09-06",
       "description": "",
       "url": "https://github.com/nonojin99/daily-games",
@@ -73,6 +58,19 @@
         "Add files via upload",
         "Add files via upload",
         "Add start.txt file",
+        "Add files via upload"
+      ]
+    },
+    {
+      "name": "Dashboard",
+      "days_idle": 2,
+      "last_push": "2026-09-06",
+      "description": "",
+      "url": "https://github.com/nonojin99/Dashboard",
+      "commit_count": 3,
+      "recent_messages": [
+        "Fix closing HTML tag formatting",
+        "Add DAILY_THUMB constant for thumbnail URLs",
         "Add files via upload"
       ]
     },
@@ -91,17 +89,24 @@
   "dormant": [
     {
       "name": "Plasma-Simulation-For-me",
-      "days_idle": 111,
+      "days_idle": 112,
       "last_push": "2026-05-19",
       "description": "",
       "url": "https://github.com/nonojin99/Plasma-Simulation-For-me"
     },
     {
       "name": "Spotfire-",
-      "days_idle": 110,
+      "days_idle": 111,
       "last_push": "2026-05-20",
       "description": "Spotfire 추출기",
       "url": "https://github.com/nonojin99/Spotfire-"
+    },
+    {
+      "name": "PM-Schedule-dash_-md",
+      "days_idle": 105,
+      "last_push": "2026-05-26",
+      "description": "",
+      "url": "https://github.com/nonojin99/PM-Schedule-dash_-md"
     },
     {
       "name": "Tower-Game",
@@ -111,15 +116,8 @@
       "url": "https://github.com/nonojin99/Tower-Game"
     },
     {
-      "name": "PM-Schedule-dash_-md",
-      "days_idle": 104,
-      "last_push": "2026-05-26",
-      "description": "",
-      "url": "https://github.com/nonojin99/PM-Schedule-dash_-md"
-    },
-    {
       "name": "mumyeonghang-TRPG",
-      "days_idle": 81,
+      "days_idle": 82,
       "last_push": "2026-06-18",
       "description": "mumyeonghang TRPG ver",
       "url": "https://github.com/nonojin99/mumyeonghang-TRPG"
@@ -133,7 +131,7 @@
     },
     {
       "name": "solid-octo-doodle",
-      "days_idle": 42,
+      "days_idle": 43,
       "last_push": "2026-07-27",
       "description": "",
       "url": "https://github.com/nonojin99/solid-octo-doodle"
@@ -144,6 +142,13 @@
       "last_push": "2026-07-30",
       "description": "",
       "url": "https://github.com/nonojin99/Pendulum"
+    },
+    {
+      "name": "Character-Chess",
+      "days_idle": 35,
+      "last_push": "2026-08-04",
+      "description": "",
+      "url": "https://github.com/nonojin99/Character-Chess"
     },
     {
       "name": "JumpTogether",
@@ -158,13 +163,6 @@
       "last_push": "2026-08-04",
       "description": "",
       "url": "https://github.com/nonojin99/Apartment-Monitor"
-    },
-    {
-      "name": "Character-Chess",
-      "days_idle": 34,
-      "last_push": "2026-08-04",
-      "description": "",
-      "url": "https://github.com/nonojin99/Character-Chess"
     },
     {
       "name": "mumyeonghaeng",
@@ -186,6 +184,13 @@
       "last_push": "2026-08-23",
       "description": "",
       "url": "https://github.com/nonojin99/Semi-Layer"
+    },
+    {
+      "name": "Physical-Puzzle",
+      "days_idle": 14,
+      "last_push": "2026-08-25",
+      "description": "",
+      "url": "https://github.com/nonojin99/Physical-Puzzle"
     },
     {
       "name": "gs-201c499f",
@@ -251,13 +256,6 @@
       "url": "https://github.com/nonojin99/pomingpu"
     },
     {
-      "name": "Physical-Puzzle",
-      "days_idle": 13,
-      "last_push": "2026-08-25",
-      "description": "",
-      "url": "https://github.com/nonojin99/Physical-Puzzle"
-    },
-    {
       "name": "-",
       "days_idle": 12,
       "last_push": "2026-08-27",
@@ -280,7 +278,7 @@
     },
     {
       "name": "Stack",
-      "days_idle": 3,
+      "days_idle": 4,
       "last_push": "2026-09-04",
       "description": "",
       "url": "https://github.com/nonojin99/Stack"
