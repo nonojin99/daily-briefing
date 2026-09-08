@@ -1,0 +1,346 @@
+{
+  "analyzed_at": "2026-09-08T13:55:42.730300+00:00",
+  "focus": {
+    "name": "NightObservatory",
+    "days_idle": 18,
+    "last_push": "2026-08-21",
+    "description": "",
+    "url": "https://github.com/nonojin99/NightObservatory",
+    "zone": "warning",
+    "zone_label": "슬슬 잊혀지는 중"
+  },
+  "total_relevant": 31,
+  "total_archived": 4,
+  "buckets": {
+    "active": [
+      {
+        "name": "Dashboard",
+        "days_idle": 1,
+        "last_push": "2026-09-06",
+        "description": "",
+        "url": "https://github.com/nonojin99/Dashboard",
+        "commit_count": 5,
+        "recent_messages": [
+          "Fix closing HTML tag formatting",
+          "Add DAILY_THUMB constant for thumbnail URLs",
+          "Add files via upload",
+          "Dashboard: 도트 공방에 멀티 카테고리 추가",
+          "Dashboard: 도트 공방을 퍼즐 카테고리에도 표시 (DAILY_EXTRA)"
+        ],
+        "zone": "active",
+        "zone_label": "진행 중"
+      },
+      {
+        "name": "daily-games",
+        "days_idle": 1,
+        "last_push": "2026-09-06",
+        "description": "",
+        "url": "https://github.com/nonojin99/daily-games",
+        "commit_count": 4,
+        "recent_messages": [
+          "Add files via upload",
+          "Add files via upload",
+          "Add start.txt file",
+          "Add files via upload"
+        ],
+        "zone": "active",
+        "zone_label": "진행 중"
+      },
+      {
+        "name": "Royale",
+        "days_idle": 1,
+        "last_push": "2026-09-07",
+        "description": "",
+        "url": "https://github.com/nonojin99/Royale",
+        "commit_count": 1,
+        "recent_messages": [
+          "Merge pull request #1 from nonojin99/claude/hud-graphics-improvements-iox20c"
+        ],
+        "zone": "active",
+        "zone_label": "진행 중"
+      },
+      {
+        "name": "daily-briefing",
+        "days_idle": 0,
+        "last_push": "2026-09-08",
+        "description": "",
+        "url": "https://github.com/nonojin99/daily-briefing",
+        "commit_count": 7,
+        "recent_messages": [
+          "Refactor daily workflow by removing redundant steps",
+          "Update daily workflow to include data collection and analysis",
+          "Add analysis script for GitHub repository management",
+          "Add daily briefing workflow to GitHub Actions",
+          "Add script to collect recent GitHub repository activity"
+        ],
+        "zone": "active",
+        "zone_label": "진행 중"
+      },
+      {
+        "name": "Daily-Card-News",
+        "days_idle": 0,
+        "last_push": "2026-09-07",
+        "description": "",
+        "url": "https://github.com/nonojin99/Daily-Card-News",
+        "commit_count": 7,
+        "recent_messages": [
+          "Add files via upload",
+          "Add files via upload",
+          "Add files via upload",
+          "Add files via upload",
+          "Add files via upload"
+        ],
+        "zone": "active",
+        "zone_label": "진행 중"
+      },
+      {
+        "name": "Janggi",
+        "days_idle": 0,
+        "last_push": "2026-09-08",
+        "description": "",
+        "url": "https://github.com/nonojin99/Janggi",
+        "zone": "active",
+        "zone_label": "진행 중"
+      }
+    ],
+    "resting": [
+      {
+        "name": "Simulation",
+        "days_idle": 7,
+        "last_push": "2026-09-01",
+        "description": "",
+        "url": "https://github.com/nonojin99/Simulation",
+        "zone": "resting",
+        "zone_label": "잠깐 쉬는 중"
+      },
+      {
+        "name": "honey-pop",
+        "days_idle": 3,
+        "last_push": "2026-09-05",
+        "description": "",
+        "url": "https://github.com/nonojin99/honey-pop",
+        "commit_count": 6,
+        "recent_messages": [
+          "Render 자동 배포 미작동 원인과 해결법 기록",
+          "라운드 클리어 축하 — 빵빠레 + 2초 깜빡이는 문구 + 꽃가루",
+          "배포 완료 — 라이브 URL 과 Render 서비스 정보를 문서에 반영",
+          "배포 대상을 Render 정적 사이트로 변경",
+          "GitHub Pages 배포 스크립트 추가"
+        ],
+        "zone": "resting",
+        "zone_label": "잠깐 쉬는 중"
+      },
+      {
+        "name": "Stack",
+        "days_idle": 3,
+        "last_push": "2026-09-04",
+        "description": "",
+        "url": "https://github.com/nonojin99/Stack",
+        "zone": "resting",
+        "zone_label": "잠깐 쉬는 중"
+      }
+    ],
+    "danger": [
+      {
+        "name": "mumyeonghang-TRPG",
+        "days_idle": 81,
+        "last_push": "2026-06-18",
+        "description": "mumyeonghang TRPG ver",
+        "url": "https://github.com/nonojin99/mumyeonghang-TRPG",
+        "zone": "danger",
+        "zone_label": "되살릴지 접을지 결정할 때"
+      },
+      {
+        "name": "Caterpiller-Territory-Game",
+        "days_idle": 46,
+        "last_push": "2026-07-24",
+        "description": "",
+        "url": "https://github.com/nonojin99/Caterpiller-Territory-Game",
+        "zone": "danger",
+        "zone_label": "되살릴지 접을지 결정할 때"
+      },
+      {
+        "name": "solid-octo-doodle",
+        "days_idle": 42,
+        "last_push": "2026-07-27",
+        "description": "",
+        "url": "https://github.com/nonojin99/solid-octo-doodle",
+        "zone": "danger",
+        "zone_label": "되살릴지 접을지 결정할 때"
+      },
+      {
+        "name": "Pendulum",
+        "days_idle": 40,
+        "last_push": "2026-07-30",
+        "description": "",
+        "url": "https://github.com/nonojin99/Pendulum",
+        "zone": "danger",
+        "zone_label": "되살릴지 접을지 결정할 때"
+      },
+      {
+        "name": "JumpTogether",
+        "days_idle": 35,
+        "last_push": "2026-08-04",
+        "description": "",
+        "url": "https://github.com/nonojin99/JumpTogether",
+        "zone": "danger",
+        "zone_label": "되살릴지 접을지 결정할 때"
+      },
+      {
+        "name": "Apartment-Monitor",
+        "days_idle": 35,
+        "last_push": "2026-08-04",
+        "description": "",
+        "url": "https://github.com/nonojin99/Apartment-Monitor",
+        "zone": "danger",
+        "zone_label": "되살릴지 접을지 결정할 때"
+      },
+      {
+        "name": "Character-Chess",
+        "days_idle": 34,
+        "last_push": "2026-08-04",
+        "description": "",
+        "url": "https://github.com/nonojin99/Character-Chess",
+        "zone": "danger",
+        "zone_label": "되살릴지 접을지 결정할 때"
+      },
+      {
+        "name": "mumyeonghaeng",
+        "days_idle": 22,
+        "last_push": "2026-08-17",
+        "description": "",
+        "url": "https://github.com/nonojin99/mumyeonghaeng",
+        "zone": "danger",
+        "zone_label": "되살릴지 접을지 결정할 때"
+      }
+    ],
+    "warning": [
+      {
+        "name": "NightObservatory",
+        "days_idle": 18,
+        "last_push": "2026-08-21",
+        "description": "",
+        "url": "https://github.com/nonojin99/NightObservatory",
+        "zone": "warning",
+        "zone_label": "슬슬 잊혀지는 중"
+      },
+      {
+        "name": "Semi-Layer",
+        "days_idle": 16,
+        "last_push": "2026-08-23",
+        "description": "",
+        "url": "https://github.com/nonojin99/Semi-Layer",
+        "zone": "warning",
+        "zone_label": "슬슬 잊혀지는 중"
+      },
+      {
+        "name": "gs-201c499f",
+        "days_idle": 13,
+        "last_push": "2026-08-26",
+        "description": "",
+        "url": "https://github.com/nonojin99/gs-201c499f",
+        "zone": "warning",
+        "zone_label": "슬슬 잊혀지는 중"
+      },
+      {
+        "name": "Poop-Dodge",
+        "days_idle": 13,
+        "last_push": "2026-08-26",
+        "description": "",
+        "url": "https://github.com/nonojin99/Poop-Dodge",
+        "zone": "warning",
+        "zone_label": "슬슬 잊혀지는 중"
+      },
+      {
+        "name": "Fortress",
+        "days_idle": 13,
+        "last_push": "2026-08-26",
+        "description": "강철 포화 (TankFort) — Fortress-style 2D tank artillery game with destructible terrain, cartoon tanks, and Supabase online multiplayer.",
+        "url": "https://github.com/nonojin99/Fortress",
+        "zone": "warning",
+        "zone_label": "슬슬 잊혀지는 중"
+      },
+      {
+        "name": "Leaf-io",
+        "days_idle": 13,
+        "last_push": "2026-08-26",
+        "description": "",
+        "url": "https://github.com/nonojin99/Leaf-io",
+        "zone": "warning",
+        "zone_label": "슬슬 잊혀지는 중"
+      },
+      {
+        "name": "constellation-voyage",
+        "days_idle": 13,
+        "last_push": "2026-08-26",
+        "description": "가상 별자리 투어",
+        "url": "https://github.com/nonojin99/constellation-voyage",
+        "zone": "warning",
+        "zone_label": "슬슬 잊혀지는 중"
+      },
+      {
+        "name": "Brick-breakers",
+        "days_idle": 13,
+        "last_push": "2026-08-26",
+        "description": "",
+        "url": "https://github.com/nonojin99/Brick-breakers",
+        "zone": "warning",
+        "zone_label": "슬슬 잊혀지는 중"
+      },
+      {
+        "name": "billiards",
+        "days_idle": 13,
+        "last_push": "2026-08-26",
+        "description": "",
+        "url": "https://github.com/nonojin99/billiards",
+        "zone": "warning",
+        "zone_label": "슬슬 잊혀지는 중"
+      },
+      {
+        "name": "Beat",
+        "days_idle": 13,
+        "last_push": "2026-08-26",
+        "description": "",
+        "url": "https://github.com/nonojin99/Beat",
+        "zone": "warning",
+        "zone_label": "슬슬 잊혀지는 중"
+      },
+      {
+        "name": "pomingpu",
+        "days_idle": 13,
+        "last_push": "2026-08-26",
+        "description": "",
+        "url": "https://github.com/nonojin99/pomingpu",
+        "zone": "warning",
+        "zone_label": "슬슬 잊혀지는 중"
+      },
+      {
+        "name": "Physical-Puzzle",
+        "days_idle": 13,
+        "last_push": "2026-08-25",
+        "description": "",
+        "url": "https://github.com/nonojin99/Physical-Puzzle",
+        "zone": "warning",
+        "zone_label": "슬슬 잊혀지는 중"
+      },
+      {
+        "name": "-",
+        "days_idle": 12,
+        "last_push": "2026-08-27",
+        "description": "",
+        "url": "https://github.com/nonojin99/-",
+        "zone": "warning",
+        "zone_label": "슬슬 잊혀지는 중"
+      },
+      {
+        "name": "brave-prairie-cap-tulip",
+        "days_idle": 12,
+        "last_push": "2026-08-27",
+        "description": "",
+        "url": "https://github.com/nonojin99/brave-prairie-cap-tulip",
+        "zone": "warning",
+        "zone_label": "슬슬 잊혀지는 중"
+      }
+    ]
+  }
+}

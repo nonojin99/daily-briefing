@@ -1,7 +1,22 @@
 {
-  "collected_at": "2026-09-08T13:43:27.513961+00:00",
+  "collected_at": "2026-09-08T13:55:39.758180+00:00",
   "period_days": 7,
   "active": [
+    {
+      "name": "daily-briefing",
+      "days_idle": 0,
+      "last_push": "2026-09-08",
+      "description": "",
+      "url": "https://github.com/nonojin99/daily-briefing",
+      "commit_count": 7,
+      "recent_messages": [
+        "Refactor daily workflow by removing redundant steps",
+        "Update daily workflow to include data collection and analysis",
+        "Add analysis script for GitHub repository management",
+        "Add daily briefing workflow to GitHub Actions",
+        "Add script to collect recent GitHub repository activity"
+      ]
+    },
     {
       "name": "Daily-Card-News",
       "days_idle": 0,
@@ -45,20 +60,6 @@
         "Add files via upload",
         "Dashboard: 도트 공방에 멀티 카테고리 추가",
         "Dashboard: 도트 공방을 퍼즐 카테고리에도 표시 (DAILY_EXTRA)"
-      ]
-    },
-    {
-      "name": "daily-briefing",
-      "days_idle": 0,
-      "last_push": "2026-09-08",
-      "description": "",
-      "url": "https://github.com/nonojin99/daily-briefing",
-      "commit_count": 4,
-      "recent_messages": [
-        "Add daily briefing workflow to GitHub Actions",
-        "Add script to collect recent GitHub repository activity",
-        "Add requests library to requirements",
-        "Initial commit"
       ]
     },
     {
