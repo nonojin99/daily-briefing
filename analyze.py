@@ -1,3 +1,10 @@
+ACTIVE_TOPIC = "active"
+def is_tracked(repo):
+    """추적 대상인가? active 토픽이 붙은 것만."""
+    if repo.get("archived"):
+        return False
+    return ACTIVE_TOPIC in repo.get("topics", [])
+    
 # analyze.py
 # github.json을 읽고 "오늘 뭘 만질지" 판단.
 
