@@ -1,8 +1,8 @@
 {
-  "analyzed_at": "2026-09-09T06:31:29.532502+00:00",
+  "analyzed_at": "2026-09-09T23:54:33.283839+00:00",
   "focus": {
     "name": "gs-201c499f",
-    "days_idle": 13,
+    "days_idle": 14,
     "last_push": "2026-08-26",
     "description": "",
     "url": "https://github.com/nonojin99/gs-201c499f",
@@ -17,45 +17,6 @@
   "total_repos": 35,
   "buckets": {
     "active": [
-      {
-        "name": "daily-games",
-        "days_idle": 2,
-        "last_push": "2026-09-06",
-        "description": "",
-        "url": "https://github.com/nonojin99/daily-games",
-        "topics": [
-          "active"
-        ],
-        "archived": false,
-        "commit_count": 4,
-        "recent_messages": [
-          "Add files via upload",
-          "Add files via upload",
-          "Add start.txt file",
-          "Add files via upload"
-        ],
-        "zone": "active",
-        "zone_label": "진행 중"
-      },
-      {
-        "name": "Dashboard",
-        "days_idle": 2,
-        "last_push": "2026-09-06",
-        "description": "",
-        "url": "https://github.com/nonojin99/Dashboard",
-        "topics": [
-          "active"
-        ],
-        "archived": false,
-        "commit_count": 3,
-        "recent_messages": [
-          "Fix closing HTML tag formatting",
-          "Add DAILY_THUMB constant for thumbnail URLs",
-          "Add files via upload"
-        ],
-        "zone": "active",
-        "zone_label": "진행 중"
-      },
       {
         "name": "Royale",
         "days_idle": 2,
@@ -97,7 +58,7 @@
       {
         "name": "Daily-Card-News",
         "days_idle": 0,
-        "last_push": "2026-09-08",
+        "last_push": "2026-09-09",
         "description": "",
         "url": "https://github.com/nonojin99/Daily-Card-News",
         "topics": [
@@ -116,10 +77,51 @@
         "zone_label": "진행 중"
       }
     ],
+    "resting": [
+      {
+        "name": "daily-games",
+        "days_idle": 3,
+        "last_push": "2026-09-06",
+        "description": "",
+        "url": "https://github.com/nonojin99/daily-games",
+        "topics": [
+          "active"
+        ],
+        "archived": false,
+        "commit_count": 4,
+        "recent_messages": [
+          "Add files via upload",
+          "Add files via upload",
+          "Add start.txt file",
+          "Add files via upload"
+        ],
+        "zone": "resting",
+        "zone_label": "잠깐 쉬는 중"
+      },
+      {
+        "name": "Dashboard",
+        "days_idle": 3,
+        "last_push": "2026-09-06",
+        "description": "",
+        "url": "https://github.com/nonojin99/Dashboard",
+        "topics": [
+          "active"
+        ],
+        "archived": false,
+        "commit_count": 3,
+        "recent_messages": [
+          "Fix closing HTML tag formatting",
+          "Add DAILY_THUMB constant for thumbnail URLs",
+          "Add files via upload"
+        ],
+        "zone": "resting",
+        "zone_label": "잠깐 쉬는 중"
+      }
+    ],
     "warning": [
       {
         "name": "gs-201c499f",
-        "days_idle": 13,
+        "days_idle": 14,
         "last_push": "2026-08-26",
         "description": "",
         "url": "https://github.com/nonojin99/gs-201c499f",
