@@ -7,7 +7,7 @@ import requests
 from pathlib import Path
 from datetime import datetime, timedelta, timezone
 
-TOKEN = os.environ["GH_PAT"]        # Secrets에서 주입됨
+TOKEN = os.environ["GH_PAT"]
 USER = os.environ.get("GH_USER", "nonojin99")
 DAYS = 7
 
@@ -71,6 +71,8 @@ def main():
             "last_push": pushed_at.strftime("%Y-%m-%d"),
             "description": repo["description"] or "",
             "url": repo["html_url"],
+            "topics": repo.get("topics", []),
+            "archived": repo.get("archived", False),
         }
 
         # 오래 방치된 건 커밋 조회 생략 (API 절약)
