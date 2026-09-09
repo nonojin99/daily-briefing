@@ -5,6 +5,14 @@ def is_tracked(repo):
         return False
     return ACTIVE_TOPIC in repo.get("topics", [])
     
+    # active 토픽 붙은 것만 추적
+    relevant = [r for r in all_repos if is_tracked(r)]
+    
+    "total_tracked": len(relevant),
+        "total_repos": len(all_repos),
+
+print(f"\n추적 중 {len(relevant)}개 / 전체 {len(all_repos)}개")
+    
 # analyze.py
 # github.json을 읽고 "오늘 뭘 만질지" 판단.
 
