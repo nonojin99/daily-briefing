@@ -1,34 +1,27 @@
-ACTIVE_TOPIC = "active"
-def is_tracked(repo):
-    """추적 대상인가? active 토픽이 붙은 것만."""
-    if repo.get("archived"):
-        return False
-    return ACTIVE_TOPIC in repo.get("topics", [])
-    
-    # active 토픽 붙은 것만 추적
-    relevant = [r for r in all_repos if is_tracked(r)]
-    
-    "total_tracked": len(relevant),
-        "total_repos": len(all_repos),
-
-print(f"\n추적 중 {len(relevant)}개 / 전체 {len(all_repos)}개")
-    
 # analyze.py
 # github.json을 읽고 "오늘 뭘 만질지" 판단.
+# active 토픽이 붙은 레포만 추적 대상.
 
 import json
 from pathlib import Path
 from datetime import datetime, timezone
 
-RELEVANT_DAYS = 90   # 이보다 오래 방치된 건 "끝난 프로젝트"로 보고 제외
+ACTIVE_TOPIC = "active"
 
-# 방치 구간 정의 (하한, 라벨, 우선순위)
+# 방치 구간 정의 (하한, 라벨, 설명)
 ZONES = [
     (22, "danger",  "되살릴지 접을지 결정할 때"),
     (8,  "warning", "슬슬 잊혀지는 중"),
     (3,  "resting", "잠깐 쉬는 중"),
     (0,  "active",  "진행 중"),
 ]
+
+
+def is_tracked(repo):
+    """추적 대상인가? active 토픽이 붙은 것만."""
+    if repo.get("archived"):
+        return False
+    return ACTIVE_TOPIC in repo.get("topics", [])
 
 
 def classify(days_idle):
@@ -46,12 +39,10 @@ def pick_focus(candidates):
     """
     warnings = [c for c in candidates if c["zone"] == "warning"]
     if warnings:
-        # warning 중 가장 오래된 것 = 가장 급한 것
         return max(warnings, key=lambda x: x["days_idle"])
 
     dangers = [c for c in candidates if c["zone"] == "danger"]
     if dangers:
-        # danger 중 가장 최근 것 = 아직 기억나는 것
         return min(dangers, key=lambda x: x["days_idle"])
 
     return None
@@ -63,8 +54,8 @@ def main():
 
     all_repos = data["active"] + data["dormant"]
 
-    # 90일 넘게 방치된 건 제외
-    relevant = [r for r in all_repos if r["days_idle"] <= RELEVANT_DAYS]
+    # active 토픽 붙은 것만 추적
+    relevant = [r for r in all_repos if is_tracked(r)]
 
     # 구간 분류
     for repo in relevant:
@@ -84,8 +75,8 @@ def main():
     result = {
         "analyzed_at": datetime.now(timezone.utc).isoformat(),
         "focus": focus,
-        "total_relevant": len(relevant),
-        "total_archived": len(all_repos) - len(relevant),
+        "total_tracked": len(relevant),
+        "total_repos": len(all_repos),
         "buckets": buckets,
     }
 
@@ -94,7 +85,7 @@ def main():
         json.dump(result, f, ensure_ascii=False, indent=2)
 
     # 콘솔 출력 (Actions 로그에서 바로 확인용)
-    print(f"\n분석 대상 {len(relevant)}개 / 보관 처리 {result['total_archived']}개")
+    print(f"\n추적 중 {len(relevant)}개 / 전체 {len(all_repos)}개")
     for zone, _, label in ZONES:
         items = buckets.get(zone, [])
         if items:
