@@ -1,8 +1,8 @@
 {
-  "analyzed_at": "2026-09-12T23:51:30.188655+00:00",
+  "analyzed_at": "2026-09-13T23:56:33.400180+00:00",
   "focus": {
     "name": "gs-201c499f",
-    "days_idle": 17,
+    "days_idle": 18,
     "last_push": "2026-08-26",
     "description": "",
     "url": "https://github.com/nonojin99/gs-201c499f",
@@ -14,13 +14,13 @@
     "zone_label": "슬슬 잊혀지는 중"
   },
   "total_tracked": 6,
-  "total_repos": 36,
+  "total_repos": 37,
   "buckets": {
     "active": [
       {
         "name": "daily-briefing",
-        "days_idle": 0,
-        "last_push": "2026-09-11",
+        "days_idle": 1,
+        "last_push": "2026-09-12",
         "description": "",
         "url": "https://github.com/nonojin99/daily-briefing",
         "topics": [
@@ -41,7 +41,7 @@
       {
         "name": "Daily-Card-News",
         "days_idle": 0,
-        "last_push": "2026-09-12",
+        "last_push": "2026-09-13",
         "description": "",
         "url": "https://github.com/nonojin99/Daily-Card-News",
         "topics": [
@@ -62,28 +62,8 @@
     ],
     "resting": [
       {
-        "name": "daily-games",
-        "days_idle": 6,
-        "last_push": "2026-09-06",
-        "description": "",
-        "url": "https://github.com/nonojin99/daily-games",
-        "topics": [
-          "active"
-        ],
-        "archived": false,
-        "commit_count": 4,
-        "recent_messages": [
-          "Add files via upload",
-          "Add files via upload",
-          "Add start.txt file",
-          "Add files via upload"
-        ],
-        "zone": "resting",
-        "zone_label": "잠깐 쉬는 중"
-      },
-      {
         "name": "Dashboard",
-        "days_idle": 6,
+        "days_idle": 7,
         "last_push": "2026-09-06",
         "description": "",
         "url": "https://github.com/nonojin99/Dashboard",
@@ -91,18 +71,25 @@
           "active"
         ],
         "archived": false,
-        "commit_count": 3,
-        "recent_messages": [
-          "Fix closing HTML tag formatting",
-          "Add DAILY_THUMB constant for thumbnail URLs",
-          "Add files via upload"
+        "zone": "resting",
+        "zone_label": "잠깐 쉬는 중"
+      },
+      {
+        "name": "daily-games",
+        "days_idle": 7,
+        "last_push": "2026-09-06",
+        "description": "",
+        "url": "https://github.com/nonojin99/daily-games",
+        "topics": [
+          "active"
         ],
+        "archived": false,
         "zone": "resting",
         "zone_label": "잠깐 쉬는 중"
       },
       {
         "name": "Royale",
-        "days_idle": 5,
+        "days_idle": 6,
         "last_push": "2026-09-07",
         "description": "",
         "url": "https://github.com/nonojin99/Royale",
@@ -121,7 +108,7 @@
     "warning": [
       {
         "name": "gs-201c499f",
-        "days_idle": 17,
+        "days_idle": 18,
         "last_push": "2026-08-26",
         "description": "",
         "url": "https://github.com/nonojin99/gs-201c499f",
