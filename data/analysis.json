@@ -1,8 +1,8 @@
 {
-  "analyzed_at": "2026-09-13T23:56:33.400180+00:00",
+  "analyzed_at": "2026-09-15T00:23:31.429818+00:00",
   "focus": {
     "name": "gs-201c499f",
-    "days_idle": 18,
+    "days_idle": 19,
     "last_push": "2026-08-26",
     "description": "",
     "url": "https://github.com/nonojin99/gs-201c499f",
@@ -20,7 +20,7 @@
       {
         "name": "daily-briefing",
         "days_idle": 1,
-        "last_push": "2026-09-12",
+        "last_push": "2026-09-13",
         "description": "",
         "url": "https://github.com/nonojin99/daily-briefing",
         "topics": [
@@ -41,7 +41,7 @@
       {
         "name": "Daily-Card-News",
         "days_idle": 0,
-        "last_push": "2026-09-13",
+        "last_push": "2026-09-14",
         "description": "",
         "url": "https://github.com/nonojin99/Daily-Card-News",
         "topics": [
@@ -58,57 +58,30 @@
         ],
         "zone": "active",
         "zone_label": "진행 중"
-      }
-    ],
-    "resting": [
-      {
-        "name": "Dashboard",
-        "days_idle": 7,
-        "last_push": "2026-09-06",
-        "description": "",
-        "url": "https://github.com/nonojin99/Dashboard",
-        "topics": [
-          "active"
-        ],
-        "archived": false,
-        "zone": "resting",
-        "zone_label": "잠깐 쉬는 중"
       },
       {
         "name": "daily-games",
-        "days_idle": 7,
-        "last_push": "2026-09-06",
+        "days_idle": 0,
+        "last_push": "2026-09-14",
         "description": "",
         "url": "https://github.com/nonojin99/daily-games",
         "topics": [
           "active"
         ],
         "archived": false,
-        "zone": "resting",
-        "zone_label": "잠깐 쉬는 중"
-      },
-      {
-        "name": "Royale",
-        "days_idle": 6,
-        "last_push": "2026-09-07",
-        "description": "",
-        "url": "https://github.com/nonojin99/Royale",
-        "topics": [
-          "active"
-        ],
-        "archived": false,
-        "commit_count": 1,
+        "commit_count": 2,
         "recent_messages": [
-          "Merge pull request #1 from nonojin99/claude/hud-graphics-improvements-iox20c"
+          "Add files via upload",
+          "Update server.js"
         ],
-        "zone": "resting",
-        "zone_label": "잠깐 쉬는 중"
+        "zone": "active",
+        "zone_label": "진행 중"
       }
     ],
     "warning": [
       {
         "name": "gs-201c499f",
-        "days_idle": 18,
+        "days_idle": 19,
         "last_push": "2026-08-26",
         "description": "",
         "url": "https://github.com/nonojin99/gs-201c499f",
@@ -118,6 +91,34 @@
         "archived": false,
         "zone": "warning",
         "zone_label": "슬슬 잊혀지는 중"
+      },
+      {
+        "name": "Dashboard",
+        "days_idle": 8,
+        "last_push": "2026-09-06",
+        "description": "",
+        "url": "https://github.com/nonojin99/Dashboard",
+        "topics": [
+          "active"
+        ],
+        "archived": false,
+        "zone": "warning",
+        "zone_label": "슬슬 잊혀지는 중"
+      }
+    ],
+    "resting": [
+      {
+        "name": "Royale",
+        "days_idle": 7,
+        "last_push": "2026-09-07",
+        "description": "",
+        "url": "https://github.com/nonojin99/Royale",
+        "topics": [
+          "active"
+        ],
+        "archived": false,
+        "zone": "resting",
+        "zone_label": "잠깐 쉬는 중"
       }
     ]
   }
