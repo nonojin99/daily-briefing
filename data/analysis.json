@@ -1,11 +1,11 @@
 {
-  "analyzed_at": "2026-09-17T00:12:14.022617+00:00",
+  "analyzed_at": "2026-09-17T23:59:31.765886+00:00",
   "focus": {
-    "name": "gs-201c499f",
-    "days_idle": 21,
-    "last_push": "2026-08-26",
+    "name": "Dashboard",
+    "days_idle": 11,
+    "last_push": "2026-09-06",
     "description": "",
-    "url": "https://github.com/nonojin99/gs-201c499f",
+    "url": "https://github.com/nonojin99/Dashboard",
     "topics": [
       "active"
     ],
@@ -18,8 +18,44 @@
   "buckets": {
     "active": [
       {
+        "name": "Daily-Card-News",
+        "days_idle": 0,
+        "last_push": "2026-09-17",
+        "description": "",
+        "url": "https://github.com/nonojin99/Daily-Card-News",
+        "topics": [
+          "active"
+        ],
+        "archived": false,
+        "commit_count": 8,
+        "recent_messages": [
+          "Add files via upload",
+          "Add files via upload",
+          "Add files via upload",
+          "Add files via upload",
+          "Add files via upload"
+        ],
+        "zone": "active",
+        "zone_label": "진행 중"
+      },
+      {
+        "name": "daily-briefing",
+        "days_idle": 0,
+        "last_push": "2026-09-17",
+        "description": "",
+        "url": "https://github.com/nonojin99/daily-briefing",
+        "topics": [
+          "active"
+        ],
+        "archived": false,
+        "zone": "active",
+        "zone_label": "진행 중"
+      }
+    ],
+    "resting": [
+      {
         "name": "daily-games",
-        "days_idle": 2,
+        "days_idle": 3,
         "last_push": "2026-09-14",
         "description": "",
         "url": "https://github.com/nonojin99/daily-games",
@@ -32,48 +68,14 @@
           "Add files via upload",
           "Update server.js"
         ],
-        "zone": "active",
-        "zone_label": "진행 중"
-      },
-      {
-        "name": "daily-briefing",
-        "days_idle": 1,
-        "last_push": "2026-09-16",
-        "description": "",
-        "url": "https://github.com/nonojin99/daily-briefing",
-        "topics": [
-          "active"
-        ],
-        "archived": false,
-        "zone": "active",
-        "zone_label": "진행 중"
-      },
-      {
-        "name": "Daily-Card-News",
-        "days_idle": 0,
-        "last_push": "2026-09-16",
-        "description": "",
-        "url": "https://github.com/nonojin99/Daily-Card-News",
-        "topics": [
-          "active"
-        ],
-        "archived": false,
-        "commit_count": 7,
-        "recent_messages": [
-          "Add files via upload",
-          "Add files via upload",
-          "Add files via upload",
-          "Add files via upload",
-          "Add files via upload"
-        ],
-        "zone": "active",
-        "zone_label": "진행 중"
+        "zone": "resting",
+        "zone_label": "잠깐 쉬는 중"
       }
     ],
-    "warning": [
+    "danger": [
       {
         "name": "gs-201c499f",
-        "days_idle": 21,
+        "days_idle": 22,
         "last_push": "2026-08-26",
         "description": "",
         "url": "https://github.com/nonojin99/gs-201c499f",
@@ -81,12 +83,14 @@
           "active"
         ],
         "archived": false,
-        "zone": "warning",
-        "zone_label": "슬슬 잊혀지는 중"
-      },
+        "zone": "danger",
+        "zone_label": "되살릴지 접을지 결정할 때"
+      }
+    ],
+    "warning": [
       {
         "name": "Dashboard",
-        "days_idle": 10,
+        "days_idle": 11,
         "last_push": "2026-09-06",
         "description": "",
         "url": "https://github.com/nonojin99/Dashboard",
@@ -99,7 +103,7 @@
       },
       {
         "name": "Royale",
-        "days_idle": 9,
+        "days_idle": 10,
         "last_push": "2026-09-07",
         "description": "",
         "url": "https://github.com/nonojin99/Royale",
