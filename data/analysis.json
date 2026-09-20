@@ -1,8 +1,8 @@
 {
-  "analyzed_at": "2026-09-19T23:57:21.065664+00:00",
+  "analyzed_at": "2026-09-20T23:57:35.289468+00:00",
   "focus": {
     "name": "Dashboard",
-    "days_idle": 13,
+    "days_idle": 14,
     "last_push": "2026-09-06",
     "description": "",
     "url": "https://github.com/nonojin99/Dashboard",
@@ -18,9 +18,22 @@
   "buckets": {
     "active": [
       {
-        "name": "Daily-Card-News",
+        "name": "daily-briefing",
         "days_idle": 1,
-        "last_push": "2026-09-18",
+        "last_push": "2026-09-19",
+        "description": "",
+        "url": "https://github.com/nonojin99/daily-briefing",
+        "topics": [
+          "active"
+        ],
+        "archived": false,
+        "zone": "active",
+        "zone_label": "진행 중"
+      },
+      {
+        "name": "Daily-Card-News",
+        "days_idle": 0,
+        "last_push": "2026-09-20",
         "description": "",
         "url": "https://github.com/nonojin99/Daily-Card-News",
         "topics": [
@@ -37,25 +50,12 @@
         ],
         "zone": "active",
         "zone_label": "진행 중"
-      },
-      {
-        "name": "daily-briefing",
-        "days_idle": 0,
-        "last_push": "2026-09-18",
-        "description": "",
-        "url": "https://github.com/nonojin99/daily-briefing",
-        "topics": [
-          "active"
-        ],
-        "archived": false,
-        "zone": "active",
-        "zone_label": "진행 중"
       }
     ],
     "resting": [
       {
         "name": "daily-games",
-        "days_idle": 5,
+        "days_idle": 6,
         "last_push": "2026-09-14",
         "description": "",
         "url": "https://github.com/nonojin99/daily-games",
@@ -75,7 +75,7 @@
     "danger": [
       {
         "name": "gs-201c499f",
-        "days_idle": 24,
+        "days_idle": 25,
         "last_push": "2026-08-26",
         "description": "",
         "url": "https://github.com/nonojin99/gs-201c499f",
@@ -90,7 +90,7 @@
     "warning": [
       {
         "name": "Dashboard",
-        "days_idle": 13,
+        "days_idle": 14,
         "last_push": "2026-09-06",
         "description": "",
         "url": "https://github.com/nonojin99/Dashboard",
@@ -103,7 +103,7 @@
       },
       {
         "name": "Royale",
-        "days_idle": 12,
+        "days_idle": 13,
         "last_push": "2026-09-07",
         "description": "",
         "url": "https://github.com/nonojin99/Royale",
