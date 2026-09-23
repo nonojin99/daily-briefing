@@ -1,8 +1,8 @@
 {
-  "analyzed_at": "2026-09-22T00:38:48.421403+00:00",
+  "analyzed_at": "2026-09-23T00:07:54.679400+00:00",
   "focus": {
     "name": "Dashboard",
-    "days_idle": 15,
+    "days_idle": 16,
     "last_push": "2026-09-06",
     "description": "",
     "url": "https://github.com/nonojin99/Dashboard",
@@ -18,22 +18,9 @@
   "buckets": {
     "active": [
       {
-        "name": "daily-briefing",
-        "days_idle": 1,
-        "last_push": "2026-09-20",
-        "description": "",
-        "url": "https://github.com/nonojin99/daily-briefing",
-        "topics": [
-          "active"
-        ],
-        "archived": false,
-        "zone": "active",
-        "zone_label": "진행 중"
-      },
-      {
         "name": "Daily-Card-News",
         "days_idle": 0,
-        "last_push": "2026-09-21",
+        "last_push": "2026-09-22",
         "description": "",
         "url": "https://github.com/nonojin99/Daily-Card-News",
         "topics": [
@@ -50,12 +37,25 @@
         ],
         "zone": "active",
         "zone_label": "진행 중"
+      },
+      {
+        "name": "daily-briefing",
+        "days_idle": 0,
+        "last_push": "2026-09-22",
+        "description": "",
+        "url": "https://github.com/nonojin99/daily-briefing",
+        "topics": [
+          "active"
+        ],
+        "archived": false,
+        "zone": "active",
+        "zone_label": "진행 중"
       }
     ],
     "danger": [
       {
         "name": "gs-201c499f",
-        "days_idle": 26,
+        "days_idle": 27,
         "last_push": "2026-08-26",
         "description": "",
         "url": "https://github.com/nonojin99/gs-201c499f",
@@ -70,7 +70,7 @@
     "warning": [
       {
         "name": "Dashboard",
-        "days_idle": 15,
+        "days_idle": 16,
         "last_push": "2026-09-06",
         "description": "",
         "url": "https://github.com/nonojin99/Dashboard",
@@ -83,7 +83,7 @@
       },
       {
         "name": "Royale",
-        "days_idle": 14,
+        "days_idle": 15,
         "last_push": "2026-09-07",
         "description": "",
         "url": "https://github.com/nonojin99/Royale",
@@ -93,12 +93,10 @@
         "archived": false,
         "zone": "warning",
         "zone_label": "슬슬 잊혀지는 중"
-      }
-    ],
-    "resting": [
+      },
       {
         "name": "daily-games",
-        "days_idle": 7,
+        "days_idle": 8,
         "last_push": "2026-09-14",
         "description": "",
         "url": "https://github.com/nonojin99/daily-games",
@@ -106,8 +104,8 @@
           "active"
         ],
         "archived": false,
-        "zone": "resting",
-        "zone_label": "잠깐 쉬는 중"
+        "zone": "warning",
+        "zone_label": "슬슬 잊혀지는 중"
       }
     ]
   }
