@@ -1,8 +1,8 @@
 {
-  "analyzed_at": "2026-10-05T00:33:03.739956+00:00",
+  "analyzed_at": "2026-10-06T02:07:10.376478+00:00",
   "focus": {
     "name": "daily-games",
-    "days_idle": 20,
+    "days_idle": 21,
     "last_push": "2026-09-14",
     "description": "",
     "url": "https://github.com/nonojin99/daily-games",
@@ -20,7 +20,7 @@
       {
         "name": "daily-briefing",
         "days_idle": 1,
-        "last_push": "2026-10-04",
+        "last_push": "2026-10-05",
         "description": "",
         "url": "https://github.com/nonojin99/daily-briefing",
         "topics": [
@@ -33,14 +33,14 @@
       {
         "name": "Daily-Card-News",
         "days_idle": 0,
-        "last_push": "2026-10-04",
+        "last_push": "2026-10-05",
         "description": "",
         "url": "https://github.com/nonojin99/Daily-Card-News",
         "topics": [
           "active"
         ],
         "archived": false,
-        "commit_count": 14,
+        "commit_count": 15,
         "recent_messages": [
           "Add files via upload",
           "Add files via upload",
@@ -55,7 +55,7 @@
     "danger": [
       {
         "name": "gs-201c499f",
-        "days_idle": 39,
+        "days_idle": 40,
         "last_push": "2026-08-26",
         "description": "",
         "url": "https://github.com/nonojin99/gs-201c499f",
@@ -68,7 +68,7 @@
       },
       {
         "name": "Dashboard",
-        "days_idle": 28,
+        "days_idle": 29,
         "last_push": "2026-09-06",
         "description": "",
         "url": "https://github.com/nonojin99/Dashboard",
@@ -81,7 +81,7 @@
       },
       {
         "name": "Royale",
-        "days_idle": 27,
+        "days_idle": 28,
         "last_push": "2026-09-07",
         "description": "",
         "url": "https://github.com/nonojin99/Royale",
@@ -96,7 +96,7 @@
     "warning": [
       {
         "name": "daily-games",
-        "days_idle": 20,
+        "days_idle": 21,
         "last_push": "2026-09-14",
         "description": "",
         "url": "https://github.com/nonojin99/daily-games",
