@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-13T02:54:24.171421+00:00",
+  "collected_at": "2026-10-14T00:57:33.908425+00:00",
   "period_days": 7,
   "active": [
     {
@@ -12,35 +12,33 @@
         "active"
       ],
       "archived": false,
-      "commit_count": 15,
+      "commit_count": 31,
       "recent_messages": [
+        "Delete app/icons/test",
+        "Delete app/README.md",
         "Add files via upload",
-        "Add files via upload",
-        "Add files via upload",
-        "Add files via upload",
-        "Rename README (1).md to README.md"
+        "Delete app/sw.js",
+        "Add files via upload"
       ]
     },
     {
       "name": "weekly-games",
-      "days_idle": 1,
+      "days_idle": 2,
       "last_push": "2026-10-11",
       "description": "",
       "url": "https://github.com/nonojin99/weekly-games",
       "topics": [],
       "archived": false,
-      "commit_count": 3,
+      "commit_count": 1,
       "recent_messages": [
-        "night-exorcist v24: 진화 겉모습 — 2단 영력 구슬, 3단 속성 영물 8종, 갓끈 색",
-        "night-exorcist v23: 코옵 1단계 — 호스트 권위 시뮬 + WebRTC 데이터채널 + coop_rooms 시그널링, 2인 룰(부활·레벨 ×2·15초 랜덤픽)",
-        "night-exorcist v22: 레벨업·상자 뒤 1초 무적 유예"
+        "night-exorcist v24: 진화 겉모습 — 2단 영력 구슬, 3단 속성 영물 8종, 갓끈 색"
       ]
     }
   ],
   "dormant": [
     {
       "name": "Plasma-Simulation-For-me",
-      "days_idle": 146,
+      "days_idle": 147,
       "last_push": "2026-05-19",
       "description": "",
       "url": "https://github.com/nonojin99/Plasma-Simulation-For-me",
@@ -49,10 +47,19 @@
     },
     {
       "name": "Spotfire-",
-      "days_idle": 145,
+      "days_idle": 146,
       "last_push": "2026-05-20",
       "description": "Spotfire 추출기",
       "url": "https://github.com/nonojin99/Spotfire-",
+      "topics": [],
+      "archived": false
+    },
+    {
+      "name": "PM-Schedule-dash_-md",
+      "days_idle": 140,
+      "last_push": "2026-05-26",
+      "description": "",
+      "url": "https://github.com/nonojin99/PM-Schedule-dash_-md",
       "topics": [],
       "archived": false
     },
@@ -66,17 +73,8 @@
       "archived": false
     },
     {
-      "name": "PM-Schedule-dash_-md",
-      "days_idle": 139,
-      "last_push": "2026-05-26",
-      "description": "",
-      "url": "https://github.com/nonojin99/PM-Schedule-dash_-md",
-      "topics": [],
-      "archived": false
-    },
-    {
       "name": "mumyeonghang-TRPG",
-      "days_idle": 116,
+      "days_idle": 117,
       "last_push": "2026-06-18",
       "description": "mumyeonghang TRPG ver",
       "url": "https://github.com/nonojin99/mumyeonghang-TRPG",
@@ -85,7 +83,7 @@
     },
     {
       "name": "Caterpiller-Territory-Game",
-      "days_idle": 80,
+      "days_idle": 81,
       "last_push": "2026-07-24",
       "description": "",
       "url": "https://github.com/nonojin99/Caterpiller-Territory-Game",
@@ -94,7 +92,7 @@
     },
     {
       "name": "solid-octo-doodle",
-      "days_idle": 77,
+      "days_idle": 78,
       "last_push": "2026-07-27",
       "description": "",
       "url": "https://github.com/nonojin99/solid-octo-doodle",
@@ -103,10 +101,19 @@
     },
     {
       "name": "Pendulum",
-      "days_idle": 74,
+      "days_idle": 75,
       "last_push": "2026-07-30",
       "description": "",
       "url": "https://github.com/nonojin99/Pendulum",
+      "topics": [],
+      "archived": false
+    },
+    {
+      "name": "Character-Chess",
+      "days_idle": 70,
+      "last_push": "2026-08-04",
+      "description": "",
+      "url": "https://github.com/nonojin99/Character-Chess",
       "topics": [],
       "archived": false
     },
@@ -129,17 +136,8 @@
       "archived": false
     },
     {
-      "name": "Character-Chess",
-      "days_idle": 69,
-      "last_push": "2026-08-04",
-      "description": "",
-      "url": "https://github.com/nonojin99/Character-Chess",
-      "topics": [],
-      "archived": false
-    },
-    {
       "name": "mumyeonghaeng",
-      "days_idle": 56,
+      "days_idle": 57,
       "last_push": "2026-08-17",
       "description": "",
       "url": "https://github.com/nonojin99/mumyeonghaeng",
@@ -148,7 +146,7 @@
     },
     {
       "name": "NightObservatory",
-      "days_idle": 52,
+      "days_idle": 53,
       "last_push": "2026-08-21",
       "description": "",
       "url": "https://github.com/nonojin99/NightObservatory",
@@ -157,7 +155,7 @@
     },
     {
       "name": "Semi-Layer",
-      "days_idle": 50,
+      "days_idle": 51,
       "last_push": "2026-08-23",
       "description": "",
       "url": "https://github.com/nonojin99/Semi-Layer",
@@ -166,7 +164,7 @@
     },
     {
       "name": "Physical-Puzzle",
-      "days_idle": 48,
+      "days_idle": 49,
       "last_push": "2026-08-25",
       "description": "",
       "url": "https://github.com/nonojin99/Physical-Puzzle",
@@ -175,7 +173,7 @@
     },
     {
       "name": "gs-201c499f",
-      "days_idle": 47,
+      "days_idle": 48,
       "last_push": "2026-08-26",
       "description": "",
       "url": "https://github.com/nonojin99/gs-201c499f",
@@ -186,7 +184,7 @@
     },
     {
       "name": "Poop-Dodge",
-      "days_idle": 47,
+      "days_idle": 48,
       "last_push": "2026-08-26",
       "description": "",
       "url": "https://github.com/nonojin99/Poop-Dodge",
@@ -195,7 +193,7 @@
     },
     {
       "name": "Fortress",
-      "days_idle": 47,
+      "days_idle": 48,
       "last_push": "2026-08-26",
       "description": "강철 포화 (TankFort) — Fortress-style 2D tank artillery game with destructible terrain, cartoon tanks, and Supabase online multiplayer.",
       "url": "https://github.com/nonojin99/Fortress",
@@ -204,7 +202,7 @@
     },
     {
       "name": "Leaf-io",
-      "days_idle": 47,
+      "days_idle": 48,
       "last_push": "2026-08-26",
       "description": "",
       "url": "https://github.com/nonojin99/Leaf-io",
@@ -213,7 +211,7 @@
     },
     {
       "name": "constellation-voyage",
-      "days_idle": 47,
+      "days_idle": 48,
       "last_push": "2026-08-26",
       "description": "가상 별자리 투어",
       "url": "https://github.com/nonojin99/constellation-voyage",
@@ -222,7 +220,7 @@
     },
     {
       "name": "Brick-breakers",
-      "days_idle": 47,
+      "days_idle": 48,
       "last_push": "2026-08-26",
       "description": "",
       "url": "https://github.com/nonojin99/Brick-breakers",
@@ -231,7 +229,7 @@
     },
     {
       "name": "billiards",
-      "days_idle": 47,
+      "days_idle": 48,
       "last_push": "2026-08-26",
       "description": "",
       "url": "https://github.com/nonojin99/billiards",
@@ -240,7 +238,7 @@
     },
     {
       "name": "Beat",
-      "days_idle": 47,
+      "days_idle": 48,
       "last_push": "2026-08-26",
       "description": "",
       "url": "https://github.com/nonojin99/Beat",
@@ -249,7 +247,7 @@
     },
     {
       "name": "pomingpu",
-      "days_idle": 47,
+      "days_idle": 48,
       "last_push": "2026-08-26",
       "description": "",
       "url": "https://github.com/nonojin99/pomingpu",
@@ -258,7 +256,7 @@
     },
     {
       "name": "-",
-      "days_idle": 46,
+      "days_idle": 47,
       "last_push": "2026-08-27",
       "description": "",
       "url": "https://github.com/nonojin99/-",
@@ -267,7 +265,7 @@
     },
     {
       "name": "brave-prairie-cap-tulip",
-      "days_idle": 46,
+      "days_idle": 47,
       "last_push": "2026-08-27",
       "description": "",
       "url": "https://github.com/nonojin99/brave-prairie-cap-tulip",
@@ -276,7 +274,7 @@
     },
     {
       "name": "Simulation",
-      "days_idle": 41,
+      "days_idle": 42,
       "last_push": "2026-09-01",
       "description": "",
       "url": "https://github.com/nonojin99/Simulation",
@@ -285,7 +283,7 @@
     },
     {
       "name": "Stack",
-      "days_idle": 38,
+      "days_idle": 39,
       "last_push": "2026-09-04",
       "description": "",
       "url": "https://github.com/nonojin99/Stack",
@@ -294,7 +292,7 @@
     },
     {
       "name": "honey-pop",
-      "days_idle": 37,
+      "days_idle": 38,
       "last_push": "2026-09-05",
       "description": "",
       "url": "https://github.com/nonojin99/honey-pop",
@@ -303,10 +301,21 @@
     },
     {
       "name": "Dashboard",
-      "days_idle": 36,
+      "days_idle": 37,
       "last_push": "2026-09-06",
       "description": "",
       "url": "https://github.com/nonojin99/Dashboard",
+      "topics": [
+        "active"
+      ],
+      "archived": false
+    },
+    {
+      "name": "Royale",
+      "days_idle": 36,
+      "last_push": "2026-09-07",
+      "description": "",
+      "url": "https://github.com/nonojin99/Royale",
       "topics": [
         "active"
       ],
@@ -322,19 +331,8 @@
       "archived": false
     },
     {
-      "name": "Royale",
-      "days_idle": 35,
-      "last_push": "2026-09-07",
-      "description": "",
-      "url": "https://github.com/nonojin99/Royale",
-      "topics": [
-        "active"
-      ],
-      "archived": false
-    },
-    {
       "name": "daily-games",
-      "days_idle": 28,
+      "days_idle": 29,
       "last_push": "2026-09-14",
       "description": "",
       "url": "https://github.com/nonojin99/daily-games",
@@ -354,8 +352,8 @@
     },
     {
       "name": "daily-briefing",
-      "days_idle": 1,
-      "last_push": "2026-10-12",
+      "days_idle": 0,
+      "last_push": "2026-10-13",
       "description": "",
       "url": "https://github.com/nonojin99/daily-briefing",
       "topics": [
