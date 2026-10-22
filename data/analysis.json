@@ -1,8 +1,8 @@
 {
-  "analyzed_at": "2026-10-21T00:26:20.025507+00:00",
+  "analyzed_at": "2026-10-22T00:29:01.271333+00:00",
   "focus": {
     "name": "daily-games",
-    "days_idle": 36,
+    "days_idle": 37,
     "last_push": "2026-09-14",
     "description": "",
     "url": "https://github.com/nonojin99/daily-games",
@@ -18,27 +18,8 @@
   "buckets": {
     "active": [
       {
-        "name": "Daily-Card-News",
-        "days_idle": 0,
-        "last_push": "2026-10-20",
-        "description": "",
-        "url": "https://github.com/nonojin99/Daily-Card-News",
-        "topics": [
-          "active"
-        ],
-        "archived": false,
-        "commit_count": 3,
-        "recent_messages": [
-          "Delete audio/2026-10/2026-10-20_daily.mp3",
-          "Delete audio/2026-10/2026-10-20_sports.mp3",
-          "Add files via upload"
-        ],
-        "zone": "active",
-        "zone_label": "진행 중"
-      },
-      {
         "name": "Dashboard",
-        "days_idle": 0,
+        "days_idle": 1,
         "last_push": "2026-10-20",
         "description": "",
         "url": "https://github.com/nonojin99/Dashboard",
@@ -55,8 +36,8 @@
       },
       {
         "name": "daily-briefing",
-        "days_idle": 0,
-        "last_push": "2026-10-20",
+        "days_idle": 1,
+        "last_push": "2026-10-21",
         "description": "",
         "url": "https://github.com/nonojin99/daily-briefing",
         "topics": [
@@ -65,12 +46,31 @@
         "archived": false,
         "zone": "active",
         "zone_label": "진행 중"
+      },
+      {
+        "name": "Daily-Card-News",
+        "days_idle": 0,
+        "last_push": "2026-10-22",
+        "description": "",
+        "url": "https://github.com/nonojin99/Daily-Card-News",
+        "topics": [
+          "active"
+        ],
+        "archived": false,
+        "commit_count": 3,
+        "recent_messages": [
+          "Delete audio/2026-10/2026-10-20_daily.mp3",
+          "Delete audio/2026-10/2026-10-20_sports.mp3",
+          "Add files via upload"
+        ],
+        "zone": "active",
+        "zone_label": "진행 중"
       }
     ],
     "danger": [
       {
         "name": "gs-201c499f",
-        "days_idle": 55,
+        "days_idle": 56,
         "last_push": "2026-08-26",
         "description": "",
         "url": "https://github.com/nonojin99/gs-201c499f",
@@ -83,7 +83,7 @@
       },
       {
         "name": "Royale",
-        "days_idle": 43,
+        "days_idle": 44,
         "last_push": "2026-09-07",
         "description": "",
         "url": "https://github.com/nonojin99/Royale",
@@ -96,7 +96,7 @@
       },
       {
         "name": "daily-games",
-        "days_idle": 36,
+        "days_idle": 37,
         "last_push": "2026-09-14",
         "description": "",
         "url": "https://github.com/nonojin99/daily-games",
