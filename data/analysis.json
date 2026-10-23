@@ -1,8 +1,8 @@
 {
-  "analyzed_at": "2026-10-22T00:29:01.271333+00:00",
+  "analyzed_at": "2026-10-23T00:27:26.937534+00:00",
   "focus": {
     "name": "daily-games",
-    "days_idle": 37,
+    "days_idle": 38,
     "last_push": "2026-09-14",
     "description": "",
     "url": "https://github.com/nonojin99/daily-games",
@@ -19,7 +19,7 @@
     "active": [
       {
         "name": "Dashboard",
-        "days_idle": 1,
+        "days_idle": 2,
         "last_push": "2026-10-20",
         "description": "",
         "url": "https://github.com/nonojin99/Dashboard",
@@ -35,22 +35,9 @@
         "zone_label": "진행 중"
       },
       {
-        "name": "daily-briefing",
-        "days_idle": 1,
-        "last_push": "2026-10-21",
-        "description": "",
-        "url": "https://github.com/nonojin99/daily-briefing",
-        "topics": [
-          "active"
-        ],
-        "archived": false,
-        "zone": "active",
-        "zone_label": "진행 중"
-      },
-      {
         "name": "Daily-Card-News",
         "days_idle": 0,
-        "last_push": "2026-10-22",
+        "last_push": "2026-10-23",
         "description": "",
         "url": "https://github.com/nonojin99/Daily-Card-News",
         "topics": [
@@ -65,12 +52,25 @@
         ],
         "zone": "active",
         "zone_label": "진행 중"
+      },
+      {
+        "name": "daily-briefing",
+        "days_idle": 0,
+        "last_push": "2026-10-22",
+        "description": "",
+        "url": "https://github.com/nonojin99/daily-briefing",
+        "topics": [
+          "active"
+        ],
+        "archived": false,
+        "zone": "active",
+        "zone_label": "진행 중"
       }
     ],
     "danger": [
       {
         "name": "gs-201c499f",
-        "days_idle": 56,
+        "days_idle": 57,
         "last_push": "2026-08-26",
         "description": "",
         "url": "https://github.com/nonojin99/gs-201c499f",
@@ -83,7 +83,7 @@
       },
       {
         "name": "Royale",
-        "days_idle": 44,
+        "days_idle": 45,
         "last_push": "2026-09-07",
         "description": "",
         "url": "https://github.com/nonojin99/Royale",
@@ -96,7 +96,7 @@
       },
       {
         "name": "daily-games",
-        "days_idle": 37,
+        "days_idle": 38,
         "last_push": "2026-09-14",
         "description": "",
         "url": "https://github.com/nonojin99/daily-games",
