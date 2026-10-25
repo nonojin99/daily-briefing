@@ -1,8 +1,8 @@
 {
-  "analyzed_at": "2026-10-25T00:05:23.046425+00:00",
+  "analyzed_at": "2026-10-25T23:56:46.472052+00:00",
   "focus": {
     "name": "daily-games",
-    "days_idle": 40,
+    "days_idle": 41,
     "last_push": "2026-09-14",
     "description": "",
     "url": "https://github.com/nonojin99/daily-games",
@@ -20,18 +20,17 @@
       {
         "name": "Daily-Card-News",
         "days_idle": 0,
-        "last_push": "2026-10-24",
+        "last_push": "2026-10-25",
         "description": "",
         "url": "https://github.com/nonojin99/Daily-Card-News",
         "topics": [
           "active"
         ],
         "archived": false,
-        "commit_count": 3,
+        "commit_count": 2,
         "recent_messages": [
           "Delete audio/2026-10/2026-10-20_daily.mp3",
-          "Delete audio/2026-10/2026-10-20_sports.mp3",
-          "Add files via upload"
+          "Delete audio/2026-10/2026-10-20_sports.mp3"
         ],
         "zone": "active",
         "zone_label": "진행 중"
@@ -39,7 +38,7 @@
       {
         "name": "daily-briefing",
         "days_idle": 0,
-        "last_push": "2026-10-24",
+        "last_push": "2026-10-25",
         "description": "",
         "url": "https://github.com/nonojin99/daily-briefing",
         "topics": [
@@ -53,7 +52,7 @@
     "resting": [
       {
         "name": "Dashboard",
-        "days_idle": 4,
+        "days_idle": 5,
         "last_push": "2026-10-20",
         "description": "",
         "url": "https://github.com/nonojin99/Dashboard",
@@ -72,7 +71,7 @@
     "danger": [
       {
         "name": "gs-201c499f",
-        "days_idle": 59,
+        "days_idle": 60,
         "last_push": "2026-08-26",
         "description": "",
         "url": "https://github.com/nonojin99/gs-201c499f",
@@ -85,7 +84,7 @@
       },
       {
         "name": "Royale",
-        "days_idle": 47,
+        "days_idle": 48,
         "last_push": "2026-09-07",
         "description": "",
         "url": "https://github.com/nonojin99/Royale",
@@ -98,7 +97,7 @@
       },
       {
         "name": "daily-games",
-        "days_idle": 40,
+        "days_idle": 41,
         "last_push": "2026-09-14",
         "description": "",
         "url": "https://github.com/nonojin99/daily-games",
