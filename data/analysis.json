@@ -1,43 +1,26 @@
 {
-  "analyzed_at": "2026-10-28T01:02:17.732708+00:00",
+  "analyzed_at": "2026-10-29T01:38:28.599518+00:00",
   "focus": {
-    "name": "daily-games",
-    "days_idle": 43,
-    "last_push": "2026-09-14",
+    "name": "Dashboard",
+    "days_idle": 8,
+    "last_push": "2026-10-20",
     "description": "",
-    "url": "https://github.com/nonojin99/daily-games",
+    "url": "https://github.com/nonojin99/Dashboard",
     "topics": [
       "active"
     ],
     "archived": false,
-    "zone": "danger",
-    "zone_label": "되살릴지 접을지 결정할 때"
+    "zone": "warning",
+    "zone_label": "슬슬 잊혀지는 중"
   },
   "total_tracked": 6,
   "total_repos": 37,
   "buckets": {
     "active": [
       {
-        "name": "Daily-Card-News",
-        "days_idle": 0,
-        "last_push": "2026-10-28",
-        "description": "",
-        "url": "https://github.com/nonojin99/Daily-Card-News",
-        "topics": [
-          "active"
-        ],
-        "archived": false,
-        "commit_count": 1,
-        "recent_messages": [
-          "Merge pull request #1 from nonojin99/ccr-d9d3b130-t108hg"
-        ],
-        "zone": "active",
-        "zone_label": "진행 중"
-      },
-      {
         "name": "daily-briefing",
-        "days_idle": 0,
-        "last_push": "2026-10-27",
+        "days_idle": 1,
+        "last_push": "2026-10-28",
         "description": "",
         "url": "https://github.com/nonojin99/daily-briefing",
         "topics": [
@@ -46,12 +29,31 @@
         "archived": false,
         "zone": "active",
         "zone_label": "진행 중"
+      },
+      {
+        "name": "Daily-Card-News",
+        "days_idle": 0,
+        "last_push": "2026-10-29",
+        "description": "",
+        "url": "https://github.com/nonojin99/Daily-Card-News",
+        "topics": [
+          "active"
+        ],
+        "archived": false,
+        "commit_count": 3,
+        "recent_messages": [
+          "Fix token refresh logic in kakao-test.yml",
+          "Create kakao-test.yml",
+          "Merge pull request #1 from nonojin99/ccr-d9d3b130-t108hg"
+        ],
+        "zone": "active",
+        "zone_label": "진행 중"
       }
     ],
     "danger": [
       {
         "name": "gs-201c499f",
-        "days_idle": 62,
+        "days_idle": 63,
         "last_push": "2026-08-26",
         "description": "",
         "url": "https://github.com/nonojin99/gs-201c499f",
@@ -64,7 +66,7 @@
       },
       {
         "name": "Royale",
-        "days_idle": 50,
+        "days_idle": 51,
         "last_push": "2026-09-07",
         "description": "",
         "url": "https://github.com/nonojin99/Royale",
@@ -77,7 +79,7 @@
       },
       {
         "name": "daily-games",
-        "days_idle": 43,
+        "days_idle": 44,
         "last_push": "2026-09-14",
         "description": "",
         "url": "https://github.com/nonojin99/daily-games",
@@ -89,10 +91,10 @@
         "zone_label": "되살릴지 접을지 결정할 때"
       }
     ],
-    "resting": [
+    "warning": [
       {
         "name": "Dashboard",
-        "days_idle": 7,
+        "days_idle": 8,
         "last_push": "2026-10-20",
         "description": "",
         "url": "https://github.com/nonojin99/Dashboard",
@@ -100,8 +102,8 @@
           "active"
         ],
         "archived": false,
-        "zone": "resting",
-        "zone_label": "잠깐 쉬는 중"
+        "zone": "warning",
+        "zone_label": "슬슬 잊혀지는 중"
       }
     ]
   }
