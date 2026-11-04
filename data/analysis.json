@@ -1,8 +1,8 @@
 {
-  "analyzed_at": "2026-11-03T03:21:44.085698+00:00",
+  "analyzed_at": "2026-11-04T01:59:29.197336+00:00",
   "focus": {
     "name": "Dashboard",
-    "days_idle": 13,
+    "days_idle": 14,
     "last_push": "2026-10-20",
     "description": "",
     "url": "https://github.com/nonojin99/Dashboard",
@@ -18,9 +18,27 @@
   "buckets": {
     "active": [
       {
+        "name": "Daily-Card-News",
+        "days_idle": 0,
+        "last_push": "2026-11-04",
+        "description": "",
+        "url": "https://github.com/nonojin99/Daily-Card-News",
+        "topics": [
+          "active"
+        ],
+        "archived": false,
+        "commit_count": 2,
+        "recent_messages": [
+          "Fix token refresh logic in kakao-test.yml",
+          "Create kakao-test.yml"
+        ],
+        "zone": "active",
+        "zone_label": "진행 중"
+      },
+      {
         "name": "daily-briefing",
-        "days_idle": 1,
-        "last_push": "2026-11-02",
+        "days_idle": 0,
+        "last_push": "2026-11-03",
         "description": "",
         "url": "https://github.com/nonojin99/daily-briefing",
         "topics": [
@@ -29,31 +47,12 @@
         "archived": false,
         "zone": "active",
         "zone_label": "진행 중"
-      },
-      {
-        "name": "Daily-Card-News",
-        "days_idle": 0,
-        "last_push": "2026-11-03",
-        "description": "",
-        "url": "https://github.com/nonojin99/Daily-Card-News",
-        "topics": [
-          "active"
-        ],
-        "archived": false,
-        "commit_count": 3,
-        "recent_messages": [
-          "Fix token refresh logic in kakao-test.yml",
-          "Create kakao-test.yml",
-          "Merge pull request #1 from nonojin99/ccr-d9d3b130-t108hg"
-        ],
-        "zone": "active",
-        "zone_label": "진행 중"
       }
     ],
     "danger": [
       {
         "name": "gs-201c499f",
-        "days_idle": 68,
+        "days_idle": 69,
         "last_push": "2026-08-26",
         "description": "",
         "url": "https://github.com/nonojin99/gs-201c499f",
@@ -66,7 +65,7 @@
       },
       {
         "name": "Royale",
-        "days_idle": 56,
+        "days_idle": 57,
         "last_push": "2026-09-07",
         "description": "",
         "url": "https://github.com/nonojin99/Royale",
@@ -79,7 +78,7 @@
       },
       {
         "name": "daily-games",
-        "days_idle": 49,
+        "days_idle": 50,
         "last_push": "2026-09-14",
         "description": "",
         "url": "https://github.com/nonojin99/daily-games",
@@ -94,7 +93,7 @@
     "warning": [
       {
         "name": "Dashboard",
-        "days_idle": 13,
+        "days_idle": 14,
         "last_push": "2026-10-20",
         "description": "",
         "url": "https://github.com/nonojin99/Dashboard",
