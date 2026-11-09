@@ -1,8 +1,8 @@
 {
-  "analyzed_at": "2026-11-08T01:11:48.028160+00:00",
+  "analyzed_at": "2026-11-09T01:30:05.852326+00:00",
   "focus": {
     "name": "Dashboard",
-    "days_idle": 18,
+    "days_idle": 19,
     "last_push": "2026-10-20",
     "description": "",
     "url": "https://github.com/nonojin99/Dashboard",
@@ -19,7 +19,7 @@
     "danger": [
       {
         "name": "gs-201c499f",
-        "days_idle": 73,
+        "days_idle": 74,
         "last_push": "2026-08-26",
         "description": "",
         "url": "https://github.com/nonojin99/gs-201c499f",
@@ -32,7 +32,7 @@
       },
       {
         "name": "Royale",
-        "days_idle": 61,
+        "days_idle": 62,
         "last_push": "2026-09-07",
         "description": "",
         "url": "https://github.com/nonojin99/Royale",
@@ -45,7 +45,7 @@
       },
       {
         "name": "daily-games",
-        "days_idle": 54,
+        "days_idle": 55,
         "last_push": "2026-09-14",
         "description": "",
         "url": "https://github.com/nonojin99/daily-games",
@@ -60,7 +60,7 @@
     "warning": [
       {
         "name": "Dashboard",
-        "days_idle": 18,
+        "days_idle": 19,
         "last_push": "2026-10-20",
         "description": "",
         "url": "https://github.com/nonojin99/Dashboard",
@@ -74,11 +74,11 @@
     ],
     "active": [
       {
-        "name": "Daily-Card-News",
-        "days_idle": 0,
+        "name": "daily-briefing",
+        "days_idle": 1,
         "last_push": "2026-11-08",
         "description": "",
-        "url": "https://github.com/nonojin99/Daily-Card-News",
+        "url": "https://github.com/nonojin99/daily-briefing",
         "topics": [
           "active"
         ],
@@ -87,11 +87,11 @@
         "zone_label": "진행 중"
       },
       {
-        "name": "daily-briefing",
+        "name": "Daily-Card-News",
         "days_idle": 0,
-        "last_push": "2026-11-07",
+        "last_push": "2026-11-08",
         "description": "",
-        "url": "https://github.com/nonojin99/daily-briefing",
+        "url": "https://github.com/nonojin99/Daily-Card-News",
         "topics": [
           "active"
         ],
