@@ -1,8 +1,8 @@
 {
-  "analyzed_at": "2026-11-10T03:59:09.036549+00:00",
+  "analyzed_at": "2026-11-11T01:44:46.001337+00:00",
   "focus": {
     "name": "Dashboard",
-    "days_idle": 20,
+    "days_idle": 21,
     "last_push": "2026-10-20",
     "description": "",
     "url": "https://github.com/nonojin99/Dashboard",
@@ -19,7 +19,7 @@
     "danger": [
       {
         "name": "gs-201c499f",
-        "days_idle": 75,
+        "days_idle": 76,
         "last_push": "2026-08-26",
         "description": "",
         "url": "https://github.com/nonojin99/gs-201c499f",
@@ -45,7 +45,7 @@
       },
       {
         "name": "daily-games",
-        "days_idle": 56,
+        "days_idle": 57,
         "last_push": "2026-09-14",
         "description": "",
         "url": "https://github.com/nonojin99/daily-games",
@@ -60,7 +60,7 @@
     "warning": [
       {
         "name": "Dashboard",
-        "days_idle": 20,
+        "days_idle": 21,
         "last_push": "2026-10-20",
         "description": "",
         "url": "https://github.com/nonojin99/Dashboard",
@@ -74,11 +74,11 @@
     ],
     "active": [
       {
-        "name": "daily-briefing",
-        "days_idle": 1,
-        "last_push": "2026-11-09",
+        "name": "Daily-Card-News",
+        "days_idle": 0,
+        "last_push": "2026-11-11",
         "description": "",
-        "url": "https://github.com/nonojin99/daily-briefing",
+        "url": "https://github.com/nonojin99/Daily-Card-News",
         "topics": [
           "active"
         ],
@@ -87,11 +87,11 @@
         "zone_label": "진행 중"
       },
       {
-        "name": "Daily-Card-News",
+        "name": "daily-briefing",
         "days_idle": 0,
         "last_push": "2026-11-10",
         "description": "",
-        "url": "https://github.com/nonojin99/Daily-Card-News",
+        "url": "https://github.com/nonojin99/daily-briefing",
         "topics": [
           "active"
         ],
