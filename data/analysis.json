@@ -1,8 +1,8 @@
 {
-  "analyzed_at": "2026-11-11T01:44:46.001337+00:00",
+  "analyzed_at": "2026-11-12T02:45:02.639169+00:00",
   "focus": {
     "name": "Dashboard",
-    "days_idle": 21,
+    "days_idle": 22,
     "last_push": "2026-10-20",
     "description": "",
     "url": "https://github.com/nonojin99/Dashboard",
@@ -10,8 +10,8 @@
       "active"
     ],
     "archived": false,
-    "zone": "warning",
-    "zone_label": "슬슬 잊혀지는 중"
+    "zone": "danger",
+    "zone_label": "되살릴지 접을지 결정할 때"
   },
   "total_tracked": 6,
   "total_repos": 37,
@@ -19,7 +19,7 @@
     "danger": [
       {
         "name": "gs-201c499f",
-        "days_idle": 76,
+        "days_idle": 77,
         "last_push": "2026-08-26",
         "description": "",
         "url": "https://github.com/nonojin99/gs-201c499f",
@@ -32,7 +32,7 @@
       },
       {
         "name": "Royale",
-        "days_idle": 64,
+        "days_idle": 65,
         "last_push": "2026-09-07",
         "description": "",
         "url": "https://github.com/nonojin99/Royale",
@@ -45,7 +45,7 @@
       },
       {
         "name": "daily-games",
-        "days_idle": 57,
+        "days_idle": 58,
         "last_push": "2026-09-14",
         "description": "",
         "url": "https://github.com/nonojin99/daily-games",
@@ -55,12 +55,10 @@
         "archived": false,
         "zone": "danger",
         "zone_label": "되살릴지 접을지 결정할 때"
-      }
-    ],
-    "warning": [
+      },
       {
         "name": "Dashboard",
-        "days_idle": 21,
+        "days_idle": 22,
         "last_push": "2026-10-20",
         "description": "",
         "url": "https://github.com/nonojin99/Dashboard",
@@ -68,17 +66,17 @@
           "active"
         ],
         "archived": false,
-        "zone": "warning",
-        "zone_label": "슬슬 잊혀지는 중"
+        "zone": "danger",
+        "zone_label": "되살릴지 접을지 결정할 때"
       }
     ],
     "active": [
       {
-        "name": "Daily-Card-News",
-        "days_idle": 0,
+        "name": "daily-briefing",
+        "days_idle": 1,
         "last_push": "2026-11-11",
         "description": "",
-        "url": "https://github.com/nonojin99/Daily-Card-News",
+        "url": "https://github.com/nonojin99/daily-briefing",
         "topics": [
           "active"
         ],
@@ -87,11 +85,11 @@
         "zone_label": "진행 중"
       },
       {
-        "name": "daily-briefing",
+        "name": "Daily-Card-News",
         "days_idle": 0,
-        "last_push": "2026-11-10",
+        "last_push": "2026-11-12",
         "description": "",
-        "url": "https://github.com/nonojin99/daily-briefing",
+        "url": "https://github.com/nonojin99/Daily-Card-News",
         "topics": [
           "active"
         ],
