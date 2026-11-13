@@ -1,8 +1,8 @@
 {
-  "analyzed_at": "2026-11-12T02:45:02.639169+00:00",
+  "analyzed_at": "2026-11-13T02:27:55.651965+00:00",
   "focus": {
     "name": "Dashboard",
-    "days_idle": 22,
+    "days_idle": 23,
     "last_push": "2026-10-20",
     "description": "",
     "url": "https://github.com/nonojin99/Dashboard",
@@ -19,7 +19,7 @@
     "danger": [
       {
         "name": "gs-201c499f",
-        "days_idle": 77,
+        "days_idle": 78,
         "last_push": "2026-08-26",
         "description": "",
         "url": "https://github.com/nonojin99/gs-201c499f",
@@ -32,7 +32,7 @@
       },
       {
         "name": "Royale",
-        "days_idle": 65,
+        "days_idle": 66,
         "last_push": "2026-09-07",
         "description": "",
         "url": "https://github.com/nonojin99/Royale",
@@ -45,7 +45,7 @@
       },
       {
         "name": "daily-games",
-        "days_idle": 58,
+        "days_idle": 59,
         "last_push": "2026-09-14",
         "description": "",
         "url": "https://github.com/nonojin99/daily-games",
@@ -58,7 +58,7 @@
       },
       {
         "name": "Dashboard",
-        "days_idle": 22,
+        "days_idle": 23,
         "last_push": "2026-10-20",
         "description": "",
         "url": "https://github.com/nonojin99/Dashboard",
@@ -72,11 +72,11 @@
     ],
     "active": [
       {
-        "name": "daily-briefing",
-        "days_idle": 1,
-        "last_push": "2026-11-11",
+        "name": "Daily-Card-News",
+        "days_idle": 0,
+        "last_push": "2026-11-12",
         "description": "",
-        "url": "https://github.com/nonojin99/daily-briefing",
+        "url": "https://github.com/nonojin99/Daily-Card-News",
         "topics": [
           "active"
         ],
@@ -85,11 +85,11 @@
         "zone_label": "진행 중"
       },
       {
-        "name": "Daily-Card-News",
+        "name": "daily-briefing",
         "days_idle": 0,
         "last_push": "2026-11-12",
         "description": "",
-        "url": "https://github.com/nonojin99/Daily-Card-News",
+        "url": "https://github.com/nonojin99/daily-briefing",
         "topics": [
           "active"
         ],
