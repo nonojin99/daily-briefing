@@ -1,8 +1,8 @@
 {
-  "analyzed_at": "2026-11-13T02:27:55.651965+00:00",
+  "analyzed_at": "2026-11-14T02:01:53.114455+00:00",
   "focus": {
     "name": "Dashboard",
-    "days_idle": 23,
+    "days_idle": 24,
     "last_push": "2026-10-20",
     "description": "",
     "url": "https://github.com/nonojin99/Dashboard",
@@ -16,10 +16,42 @@
   "total_tracked": 6,
   "total_repos": 37,
   "buckets": {
+    "active": [
+      {
+        "name": "Daily-Card-News",
+        "days_idle": 0,
+        "last_push": "2026-11-14",
+        "description": "",
+        "url": "https://github.com/nonojin99/Daily-Card-News",
+        "topics": [
+          "active"
+        ],
+        "archived": false,
+        "commit_count": 1,
+        "recent_messages": [
+          "Merge pull request #2 from nonojin99/chart-templates-vs-bars-steps"
+        ],
+        "zone": "active",
+        "zone_label": "진행 중"
+      },
+      {
+        "name": "daily-briefing",
+        "days_idle": 0,
+        "last_push": "2026-11-13",
+        "description": "",
+        "url": "https://github.com/nonojin99/daily-briefing",
+        "topics": [
+          "active"
+        ],
+        "archived": false,
+        "zone": "active",
+        "zone_label": "진행 중"
+      }
+    ],
     "danger": [
       {
         "name": "gs-201c499f",
-        "days_idle": 78,
+        "days_idle": 79,
         "last_push": "2026-08-26",
         "description": "",
         "url": "https://github.com/nonojin99/gs-201c499f",
@@ -32,7 +64,7 @@
       },
       {
         "name": "Royale",
-        "days_idle": 66,
+        "days_idle": 67,
         "last_push": "2026-09-07",
         "description": "",
         "url": "https://github.com/nonojin99/Royale",
@@ -45,7 +77,7 @@
       },
       {
         "name": "daily-games",
-        "days_idle": 59,
+        "days_idle": 60,
         "last_push": "2026-09-14",
         "description": "",
         "url": "https://github.com/nonojin99/daily-games",
@@ -58,7 +90,7 @@
       },
       {
         "name": "Dashboard",
-        "days_idle": 23,
+        "days_idle": 24,
         "last_push": "2026-10-20",
         "description": "",
         "url": "https://github.com/nonojin99/Dashboard",
@@ -68,34 +100,6 @@
         "archived": false,
         "zone": "danger",
         "zone_label": "되살릴지 접을지 결정할 때"
-      }
-    ],
-    "active": [
-      {
-        "name": "Daily-Card-News",
-        "days_idle": 0,
-        "last_push": "2026-11-12",
-        "description": "",
-        "url": "https://github.com/nonojin99/Daily-Card-News",
-        "topics": [
-          "active"
-        ],
-        "archived": false,
-        "zone": "active",
-        "zone_label": "진행 중"
-      },
-      {
-        "name": "daily-briefing",
-        "days_idle": 0,
-        "last_push": "2026-11-12",
-        "description": "",
-        "url": "https://github.com/nonojin99/daily-briefing",
-        "topics": [
-          "active"
-        ],
-        "archived": false,
-        "zone": "active",
-        "zone_label": "진행 중"
       }
     ]
   }
