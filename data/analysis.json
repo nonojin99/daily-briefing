@@ -1,8 +1,8 @@
 {
-  "analyzed_at": "2026-11-17T04:21:47.428217+00:00",
+  "analyzed_at": "2026-11-18T03:24:13.964501+00:00",
   "focus": {
     "name": "Dashboard",
-    "days_idle": 27,
+    "days_idle": 28,
     "last_push": "2026-10-20",
     "description": "",
     "url": "https://github.com/nonojin99/Dashboard",
@@ -14,26 +14,13 @@
     "zone_label": "되살릴지 접을지 결정할 때"
   },
   "total_tracked": 6,
-  "total_repos": 37,
+  "total_repos": 38,
   "buckets": {
     "active": [
       {
-        "name": "daily-briefing",
-        "days_idle": 1,
-        "last_push": "2026-11-16",
-        "description": "",
-        "url": "https://github.com/nonojin99/daily-briefing",
-        "topics": [
-          "active"
-        ],
-        "archived": false,
-        "zone": "active",
-        "zone_label": "진행 중"
-      },
-      {
         "name": "Daily-Card-News",
         "days_idle": 0,
-        "last_push": "2026-11-17",
+        "last_push": "2026-11-18",
         "description": "",
         "url": "https://github.com/nonojin99/Daily-Card-News",
         "topics": [
@@ -46,12 +33,25 @@
         ],
         "zone": "active",
         "zone_label": "진행 중"
+      },
+      {
+        "name": "daily-briefing",
+        "days_idle": 0,
+        "last_push": "2026-11-17",
+        "description": "",
+        "url": "https://github.com/nonojin99/daily-briefing",
+        "topics": [
+          "active"
+        ],
+        "archived": false,
+        "zone": "active",
+        "zone_label": "진행 중"
       }
     ],
     "danger": [
       {
         "name": "gs-201c499f",
-        "days_idle": 82,
+        "days_idle": 83,
         "last_push": "2026-08-26",
         "description": "",
         "url": "https://github.com/nonojin99/gs-201c499f",
@@ -77,7 +77,7 @@
       },
       {
         "name": "daily-games",
-        "days_idle": 63,
+        "days_idle": 64,
         "last_push": "2026-09-14",
         "description": "",
         "url": "https://github.com/nonojin99/daily-games",
@@ -90,7 +90,7 @@
       },
       {
         "name": "Dashboard",
-        "days_idle": 27,
+        "days_idle": 28,
         "last_push": "2026-10-20",
         "description": "",
         "url": "https://github.com/nonojin99/Dashboard",
