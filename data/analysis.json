@@ -1,8 +1,8 @@
 {
-  "analyzed_at": "2026-11-24T05:46:26.962268+00:00",
+  "analyzed_at": "2026-11-25T04:48:51.619749+00:00",
   "focus": {
     "name": "Dashboard",
-    "days_idle": 34,
+    "days_idle": 35,
     "last_push": "2026-10-20",
     "description": "",
     "url": "https://github.com/nonojin99/Dashboard",
@@ -14,12 +14,12 @@
     "zone_label": "되살릴지 접을지 결정할 때"
   },
   "total_tracked": 6,
-  "total_repos": 40,
+  "total_repos": 41,
   "buckets": {
     "danger": [
       {
         "name": "gs-201c499f",
-        "days_idle": 89,
+        "days_idle": 90,
         "last_push": "2026-08-26",
         "description": "",
         "url": "https://github.com/nonojin99/gs-201c499f",
@@ -32,7 +32,7 @@
       },
       {
         "name": "Royale",
-        "days_idle": 78,
+        "days_idle": 79,
         "last_push": "2026-09-07",
         "description": "",
         "url": "https://github.com/nonojin99/Royale",
@@ -45,7 +45,7 @@
       },
       {
         "name": "daily-games",
-        "days_idle": 71,
+        "days_idle": 72,
         "last_push": "2026-09-14",
         "description": "",
         "url": "https://github.com/nonojin99/daily-games",
@@ -58,7 +58,7 @@
       },
       {
         "name": "Dashboard",
-        "days_idle": 34,
+        "days_idle": 35,
         "last_push": "2026-10-20",
         "description": "",
         "url": "https://github.com/nonojin99/Dashboard",
@@ -72,11 +72,11 @@
     ],
     "active": [
       {
-        "name": "daily-briefing",
-        "days_idle": 1,
-        "last_push": "2026-11-23",
+        "name": "Daily-Card-News",
+        "days_idle": 0,
+        "last_push": "2026-11-25",
         "description": "",
-        "url": "https://github.com/nonojin99/daily-briefing",
+        "url": "https://github.com/nonojin99/Daily-Card-News",
         "topics": [
           "active"
         ],
@@ -85,11 +85,11 @@
         "zone_label": "진행 중"
       },
       {
-        "name": "Daily-Card-News",
+        "name": "daily-briefing",
         "days_idle": 0,
         "last_push": "2026-11-24",
         "description": "",
-        "url": "https://github.com/nonojin99/Daily-Card-News",
+        "url": "https://github.com/nonojin99/daily-briefing",
         "topics": [
           "active"
         ],
