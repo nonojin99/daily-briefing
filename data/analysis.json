@@ -1,8 +1,8 @@
 {
-  "analyzed_at": "2026-11-26T04:00:19.369609+00:00",
+  "analyzed_at": "2026-11-27T03:58:41.304610+00:00",
   "focus": {
     "name": "Dashboard",
-    "days_idle": 36,
+    "days_idle": 37,
     "last_push": "2026-10-20",
     "description": "",
     "url": "https://github.com/nonojin99/Dashboard",
@@ -19,7 +19,7 @@
     "danger": [
       {
         "name": "gs-201c499f",
-        "days_idle": 91,
+        "days_idle": 92,
         "last_push": "2026-08-26",
         "description": "",
         "url": "https://github.com/nonojin99/gs-201c499f",
@@ -32,7 +32,7 @@
       },
       {
         "name": "Royale",
-        "days_idle": 80,
+        "days_idle": 81,
         "last_push": "2026-09-07",
         "description": "",
         "url": "https://github.com/nonojin99/Royale",
@@ -45,7 +45,7 @@
       },
       {
         "name": "daily-games",
-        "days_idle": 72,
+        "days_idle": 73,
         "last_push": "2026-09-14",
         "description": "",
         "url": "https://github.com/nonojin99/daily-games",
@@ -58,7 +58,7 @@
       },
       {
         "name": "Dashboard",
-        "days_idle": 36,
+        "days_idle": 37,
         "last_push": "2026-10-20",
         "description": "",
         "url": "https://github.com/nonojin99/Dashboard",
@@ -74,7 +74,7 @@
       {
         "name": "Daily-Card-News",
         "days_idle": 0,
-        "last_push": "2026-11-26",
+        "last_push": "2026-11-27",
         "description": "",
         "url": "https://github.com/nonojin99/Daily-Card-News",
         "topics": [
@@ -87,7 +87,7 @@
       {
         "name": "daily-briefing",
         "days_idle": 0,
-        "last_push": "2026-11-25",
+        "last_push": "2026-11-26",
         "description": "",
         "url": "https://github.com/nonojin99/daily-briefing",
         "topics": [
