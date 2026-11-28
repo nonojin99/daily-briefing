@@ -1,8 +1,8 @@
 {
-  "analyzed_at": "2026-11-27T03:58:41.304610+00:00",
+  "analyzed_at": "2026-11-28T03:46:26.529367+00:00",
   "focus": {
     "name": "Dashboard",
-    "days_idle": 37,
+    "days_idle": 38,
     "last_push": "2026-10-20",
     "description": "",
     "url": "https://github.com/nonojin99/Dashboard",
@@ -19,7 +19,7 @@
     "danger": [
       {
         "name": "gs-201c499f",
-        "days_idle": 92,
+        "days_idle": 93,
         "last_push": "2026-08-26",
         "description": "",
         "url": "https://github.com/nonojin99/gs-201c499f",
@@ -45,7 +45,7 @@
       },
       {
         "name": "daily-games",
-        "days_idle": 73,
+        "days_idle": 74,
         "last_push": "2026-09-14",
         "description": "",
         "url": "https://github.com/nonojin99/daily-games",
@@ -58,7 +58,7 @@
       },
       {
         "name": "Dashboard",
-        "days_idle": 37,
+        "days_idle": 38,
         "last_push": "2026-10-20",
         "description": "",
         "url": "https://github.com/nonojin99/Dashboard",
@@ -74,7 +74,7 @@
       {
         "name": "Daily-Card-News",
         "days_idle": 0,
-        "last_push": "2026-11-27",
+        "last_push": "2026-11-28",
         "description": "",
         "url": "https://github.com/nonojin99/Daily-Card-News",
         "topics": [
@@ -87,7 +87,7 @@
       {
         "name": "daily-briefing",
         "days_idle": 0,
-        "last_push": "2026-11-26",
+        "last_push": "2026-11-27",
         "description": "",
         "url": "https://github.com/nonojin99/daily-briefing",
         "topics": [
